@@ -14,6 +14,10 @@ If you have a startup question, someone might have already written a book as an 
 * [The Idea Maze](http://cdixon.org/2013/08/04/the-idea-maze/) & [The Idea Maze for AI Startups](http://cdixon.org/2015/02/01/the-ai-startup-idea-maze/) by Chris Dixon
 * [How to come up with a business idea?](https://www.indiehackers.com/blog/how-to-come-up-with-a-business-idea) by Courtland Allen of Indie Hackers
 
+### Problems that are waiting for you to solve :money_face:
+
+* [Requests for Startups] by Y Combinator
+
 ## What should I know about investments and VC?
 
 ### Long answer :book:
