@@ -1,4 +1,4 @@
-# startup README
+# startup: README
 If you have a startup question, someone might have already written a book as an answer. Or a medium post. Or whatever it could be.
 
 ## What idea should I work on? :rocket:
