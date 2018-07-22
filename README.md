@@ -16,7 +16,7 @@ If you have a startup question, someone might have already written a book as an 
 
 ### Problems that are waiting for you to solve :money_face:
 
-* [Requests for Startups] by Y Combinator
+* [Requests for Startups](https://www.ycombinator.com/rfs/) by Y Combinator
 
 ## What should I know about investments and VC?
 
