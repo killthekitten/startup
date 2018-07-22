@@ -18,6 +18,9 @@ If you have a startup question, someone might have already written a book as an 
 
 * [Requests for Startups](https://www.ycombinator.com/rfs/) by Y Combinator
 
+## How big is my idea?
+
+* [Calculating Total Adressable Market](https://www.forentrepreneurs.com/calculating-tam/)
 ## What should I know about investments and VC?
 
 ### Long answer :book:
